@@ -1,6 +1,6 @@
 # Who am I
 
-* I'm from Barcelona but I currently live in a village called Cardedeu
+* I'm from Barcelona but I am currently living in a village called Cardedeu
 * I am an environmental scientist with a PhD in Atmospheric Sciences
 * In my PhD I had to treat a lot of data so I have a bit of experience with data science, although most of it with R and other statistical software.
 
